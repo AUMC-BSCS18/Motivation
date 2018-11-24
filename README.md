@@ -27,5 +27,7 @@
   [![Meet Jimit, one amongst the million aspiring Android developers](http://img.youtube.com/vi/byQtPUOXzu4/0.jpg)](http://www.youtube.com/watch?v=byQtPUOXzu4 "Meet Jimit, one amongst the million aspiring Android developers")
 - ### Meet Japan's 82-year-old app-maker and programmer
   [![Meet Japan's 82-year-old app-maker and programmer](http://img.youtube.com/vi/hr1xp3tVgUQ/0.jpg)](http://www.youtube.com/watch?v=hr1xp3tVgUQ "Meet Japan's 82-year-old app-maker and programmer")
-- ### Shaza’s Story
-  [![Shaza’s Story](http://img.youtube.com/vi/rbZ4aLq4-Lg/0.jpg)](http://www.youtube.com/watch?v=rbZ4aLq4-Lg "Shaza’s Story")
+- ### Aaron Oertel: From Business School Drop Out to Junior Android Developer
+  [![Aaron Oertel: From Business School Drop Out to Junior Android Developer](http://img.youtube.com/vi/cuduUHOwPs0/0.jpg)](http://www.youtube.com/watch?v=cuduUHOwPs0 "Aaron Oertel: From Business School Drop Out to Junior Android Developer")
+- ### A 12-year-old app developer | Thomas Suarez
+  [![A 12-year-old app developer | Thomas Suarez](http://img.youtube.com/vi/Fkd9TWUtFm0/0.jpg)](http://www.youtube.com/watch?v=Fkd9TWUtFm0 "A 12-year-old app developer | Thomas Suarez")
